@@ -1,1 +1,1 @@
-web: node sistem.js
+worker: node sistem.js
